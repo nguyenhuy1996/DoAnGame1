@@ -3,8 +3,17 @@ guid: 0dfe505b66a634646bfda26d903fb8d9
 ModelImporter:
   serializedVersion: 18
   fileIDToRecycleName:
+    100000: //RootNode
+    100002: ID14
+    400000: //RootNode
+    400002: ID14
+    2300000: //RootNode
+    2300002: ID14
+    3300000: //RootNode
+    3300002: ID14
     4300000: SketchUp
     4300002: ID14
+    11100000: //RootNode
   materials:
     importMaterials: 1
     materialName: 0

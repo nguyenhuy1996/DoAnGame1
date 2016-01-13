@@ -3,12 +3,37 @@ guid: 5d3f8f9d7c6ff4ca5b396bcc9631c4e1
 ModelImporter:
   serializedVersion: 18
   fileIDToRecycleName:
+    100000: //RootNode
+    100002: ID19
+    100004: ID34
+    100006: ID49
+    100008: ID64
+    100010: ID74
+    400000: //RootNode
+    400002: ID19
+    400004: ID34
+    400006: ID49
+    400008: ID64
+    400010: ID74
+    2300000: //RootNode
+    2300002: ID19
+    2300004: ID34
+    2300006: ID49
+    2300008: ID64
+    2300010: ID74
+    3300000: //RootNode
+    3300002: ID19
+    3300004: ID34
+    3300006: ID49
+    3300008: ID64
+    3300010: ID74
     4300000: SketchUp
     4300002: ID19
     4300004: ID34
     4300006: ID49
     4300008: ID64
     4300010: ID74
+    11100000: //RootNode
   materials:
     importMaterials: 1
     materialName: 0

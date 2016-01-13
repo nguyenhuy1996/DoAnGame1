@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DoAnGame1.CSharp", "DoAnGame1.CSharp.csproj", "{E780B661-4574-ECCA-D3D1-AD6D66289513}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DoAnGame1.CSharp.Editor", "DoAnGame1.CSharp.Editor.csproj", "{BA587A72-587E-6DA6-8FCC-8DE6D3E74719}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E780B661-4574-ECCA-D3D1-AD6D66289513}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E780B661-4574-ECCA-D3D1-AD6D66289513}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E780B661-4574-ECCA-D3D1-AD6D66289513}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E780B661-4574-ECCA-D3D1-AD6D66289513}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA587A72-587E-6DA6-8FCC-8DE6D3E74719}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA587A72-587E-6DA6-8FCC-8DE6D3E74719}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA587A72-587E-6DA6-8FCC-8DE6D3E74719}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA587A72-587E-6DA6-8FCC-8DE6D3E74719}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
